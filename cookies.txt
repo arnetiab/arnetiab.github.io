@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.mccabecoleman.com	TRUE	/	FALSE	1999999999	SEOT	#1
+www.mccabecoleman.com	TRUE	/	FALSE	1999999999	T	!!
+www.mccabecoleman.com	TRUE	/	FALSE	1999999999	SEOV	#48
+www.mccabecoleman.com	TRUE	/	FALSE	1999999999	TS01dc6f8b	0184cfe7a6b5da6a6a8f658b01b8596354db93e27aa0eec33d24440f0647ff705392a0a2dd0b0a07c632e30fedc91235daf5c54c2d2b273316a1542f54aad5dd4ee7c4454e24c7a64f8e61da6db6e45be57349e7a22bf4cc92cc8aa5ff71886dbb9afaf4a2
+
